@@ -17,4 +17,4 @@ while foj:
 
     else:
         foj = True
-        eldont(int(szam))#szniki szex
+        eldont(int(szam))
